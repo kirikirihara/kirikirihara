@@ -6,7 +6,7 @@
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirikirihara&layout=compact&theme=synthwave)](https://github.com/kirikirihara/)
 
-[![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirikirihara&theme=synthwave)]
+[![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirikirihara&theme=synthwave)](https://github.com/kirikirihara/)
 
 
 <!--
