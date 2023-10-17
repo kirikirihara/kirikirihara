@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 💖
 
 <!-- グラフ -->
 [![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirikirihara&theme=cobalt)](https://github.com/kirikirihara/)
