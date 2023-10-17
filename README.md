@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=kirikirihara&count_private=true&show_icons=true&theme=cobalt
+<!-- リポジトリステータス -->
+[![github stats](https://github-readme-stats.vercel.app/api?username=kirikirihara&hide=contribs&count_private=true&show_icons=true&theme=cobalt)](https://github.com/kirikirihara/)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=kirikirihara&layout=compact&theme=cobalt
+<!-- ソースコード統計 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirikirihara&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **kirikirihara/kirikirihara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
