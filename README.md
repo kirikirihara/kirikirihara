@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=kirikirihara&hide=contribs&count_private=true&show_icons=true&theme=synthwave)](https://github.com/kirikirihara/)
+
 <!-- ソースコード統計 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirikirihara&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirikirihara&layout=compact&theme=synthwave)](https://github.com/kirikirihara/)
 
 
 <!--
