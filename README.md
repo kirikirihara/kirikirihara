@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+
 <!-- リポジトリステータス -->
-[![github stats](https://github-readme-stats.vercel.app/api?username=kirikirihara&hide=contribs&count_private=true&show_icons=true&theme=cobalt)](https://github.com/kirikirihara/)
+[![github stats](https://github-readme-stats.vercel.app/api?username=kirikirihara&hide=contribs&count_private=false&show_icons=true&theme=cobalt)](https://github.com/kirikirihara/)
 
 <!-- ソースコード統計 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirikirihara&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
